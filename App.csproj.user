@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Workspace\CongNghePhanMem\PhaMemQBDD_30_11_2024\QuangBaDiaDanh\Properties\PublishProfiles\FolderProfile6.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Utilities\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Utilities\RoundPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChatBot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChiDuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DuyetBinhLuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\HuongDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SuaThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DanhSachDiaDanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DatMatKhauMoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QuenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThongTinChiTietDiaDanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\KhamPha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TinhThanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
